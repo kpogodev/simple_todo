@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "fpC8bB1Th31k2BDucO4i7",
+      "text": "First thing to do",
+      "completed": false
+    },
+    {
+      "id": "-BQE5WYeBG0erk1nUJ8mf",
+      "text": "Second thing to do",
+      "completed": false
+    },
+    {
+      "id": "kitADLRdUrPQTb8Fkec9w",
+      "text": "Last thing to do",
+      "completed": false
+    }
+  ]
+}
